@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "437464503053",
+    "project_id": "sf333-249cf",
+    "storage_bucket": "sf333-249cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437464503053:android:efbc474679add7d07a5644",
+        "android_client_info": {
+          "package_name": "com.example.paperless_newversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437464503053-bk9rrf92hf3d9cg2jkiu2k2dsiqvsb22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkMDD1dfLqmoOH40ooOKnDvFAhCyOe64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437464503053-bk9rrf92hf3d9cg2jkiu2k2dsiqvsb22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437464503053-p72199pc1u24lfnnaqf2knpp92ai66bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paplerless"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437464503053:android:cb05fed839ea5cbd7a5644",
+        "android_client_info": {
+          "package_name": "com.example.paplerless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437464503053-bk9rrf92hf3d9cg2jkiu2k2dsiqvsb22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOkMDD1dfLqmoOH40ooOKnDvFAhCyOe64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437464503053-bk9rrf92hf3d9cg2jkiu2k2dsiqvsb22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "437464503053-p72199pc1u24lfnnaqf2knpp92ai66bp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paplerless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
